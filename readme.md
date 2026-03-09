@@ -1,9 +1,10 @@
 <h1 align="center">
-  <img src="https:                                                                                                                                                                                                                     
+  <img src="https:                                                
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg" width="350"/>
+  <img src="https://telegra.ph/file/7d1c1d8d18a3d42b1a81b.jpg" width="150"/> 
+  <br><b>PATEL XMD</b> 😎
 </p>
 
 <p align="center">
@@ -17,8 +18,17 @@
   <img src="https://img.shields.io/github/forks/PATEL-XMD/patel-xmd-bot?style=for-the-badge&color=orange"/>
 </p>
 
+## 🌟 Features
+- Multi-pairing servers
+- Easy deployment
+- WhatsApp automation
+
+## 🚀 Deploy
+1. Fork repo
+2. Add creds
+3. Deploy 😊
+
 ## 👨‍💻 Owner
 <p align="center">
-  <img src="https://i.ibb.co/7J8Yw1t/patel-xmd.jpg" width="150"/> 
-  <br>PATEL XMD 😎
+  PATEL XMD | WhatsApp Bot
 </p>
